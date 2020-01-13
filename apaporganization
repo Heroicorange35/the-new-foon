@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+<title>APAP Organization</title>
+    <head>
+        <h1>Hello, welcome to the APAP Organization's site</h1>
+        <h2>The Anomaly Preservation and Protection Organization</h2>
+        <h3>Submit anomaly sightings to apapsightings@gmail.com</h3>
+        <br></br>
+    </head>
+    <body>
+       <img src="https://codehs.com/uploads/a63b50071b34ce8d5f79f939192e00f1" alt="APAP Icon" width="256" height="256">
+       <br></br>
+       <a href="apapaclass.html">Class A</a>
+       <a href="apapbclass.html">Class B</a>
+       <a href="apap-c-class.html">Class C</a>
+       <style>
+a:link {
+  color: DarkGreen;
+  background-color: gray;
+  text-decoration: none;
+}
+
+a:visited {
+  color: lime;
+  background-color: DarkSlateGray;
+  text-decoration: none;
+}
+
+a:hover {
+  color: green;
+  background-color: black;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+    </body>
+</html>
